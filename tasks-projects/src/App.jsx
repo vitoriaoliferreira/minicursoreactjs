@@ -29,7 +29,6 @@ export default function App() {
 
       <Main>
       <NewTask tasks={tasks} setTasks={setTasks} />
-      <NewTask tasks={tasks} setTasks={setTasks} />
 	    <Tasks tasks={tasks} setTasks={setTasks} />
       </Main>
     </Container>
